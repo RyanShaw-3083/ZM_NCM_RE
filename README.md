@@ -1,5 +1,5 @@
 # Insight the NCM  
-At honestly, That's absolutely dream of software in the networking field. I always (have to) look forward to improving on "the security" functions.
+To be honest, NCM is definitely the dream network software. I always (have to) look forward to some improvements in "security auditing" features.
 
 ## Prepare  
 Before continuing, please make the following preparations.
