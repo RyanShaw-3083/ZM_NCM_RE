@@ -38,8 +38,8 @@ Before continuing, please make the following preparations.
 - [x] Take over this the datasets upgrade of the features . (For complianting CAC No. 66 regulations.)
    - [x] Prepare dataset from CNVD.
      - [More comparison and statistics](DBUpgrade/stat.md)
-   - [ ] Insert rows into table with some `null` columns.
-   - [ ] Set a new endpoint for NCM Vulnerability database upgrade.
+   - [x] Insert rows into table with some `null` columns.
+   - [x] Set a new endpoint for NCM Vulnerability database upgrade.
 
 ---
 
