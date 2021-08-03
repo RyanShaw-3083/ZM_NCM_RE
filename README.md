@@ -1,9 +1,6 @@
 # Insight the NCM  
-<<<<<<< HEAD
-To be honest, this is definitely the dream network software. I always (must) look forward to some improvements in "safety" features.
-=======
 To be honest, NCM is definitely the dream network software. I always (have to) look forward to some improvements in "security auditing" features.
->>>>>>> f54f59666e7ce3472e66a41b909d82767fbd96a4
+
 
 ## Prepare  
 Before continuing, please make the following preparations.
