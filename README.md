@@ -1,5 +1,5 @@
 # Insight the NCM  
-At honestly, That's absolutely dream of software in the networking field. I always (have to) look forward to improving on "the security" functions.
+To be honest, this is definitely the dream network software. I always (must) look forward to some improvements in "safety" features.
 
 ## Prepare  
 Before continuing, please make the following preparations.
@@ -30,7 +30,8 @@ Before continuing, please make the following preparations.
 
 
 - [x] Migrate the vulnerability `public.ncmfvvulnerabilitydetails.summary` to the language other than English.  
-  -  [`translate_summary.py`](firmVuls/translate_summary.py)  
+  -  [`translate_summary.py`](firmVuls/translate_summary.py)   
+     > Emmm..., Google Translate Not Like a Pro as you do.
 
 
 - [x] Take over this the datasets upgrade of the features . (For complianting CAC No. 66 regulations.)
@@ -39,7 +40,8 @@ Before continuing, please make the following preparations.
   3. Set a new endpoint for Vulnerability database upgrade.
 
 
-### S2 - Upgrade networking visualization as daemon.
+
+### S2 - Upgrade networking visualization as discover daemon.(Combine OpManager)
 
 - [ ] Reference and what I (and others) expected.
 - [ ] Link layer information collection.
