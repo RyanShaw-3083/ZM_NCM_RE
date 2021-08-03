@@ -36,11 +36,12 @@ Before continuing, please make the following preparations.
 
 
 - [x] Take over this the datasets upgrade of the features . (For complianting CAC No. 66 regulations.)
-  1. Prepare dataset from CNVD.
-  2. Insert into table.
-  3. Set a new endpoint for Vulnerability database upgrade.
+   - [x] Prepare dataset from CNVD.
+     - [More comparison and statistics](DBUpgrade/stat.md)
+   - [ ] Insert rows into table with some `null` columns.
+   - [ ] Set a new endpoint for NCM Vulnerability database upgrade.
 
-
+---
 
 ### S2 - Upgrade networking visualization as discover daemon.(Combine OpManager)
 
