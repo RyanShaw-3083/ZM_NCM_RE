@@ -1,5 +1,5 @@
 # Insight the NCM  
-c, NCM is definitely the dream network software. I always (have to) look forward to some improvements in "security auditing" features.
+To be honest, NCM is definitely the dream network software. I always (have to) look forward to some improvements in "security auditing" features.
 
 
 ## Prepare  
